@@ -1,4 +1,3 @@
-# Interview-Juelich-Assignment
 # Sequential Training for air quality forecasting  RNN, LSTM, GRU, and CoRNN
 
 ## Getting Started
